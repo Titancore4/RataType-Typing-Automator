@@ -1,4 +1,4 @@
-# RataType-Typing-Automator
+### RataType-Typing-Automator
 
 Hello, what's up!
 
