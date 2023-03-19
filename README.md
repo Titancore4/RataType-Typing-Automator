@@ -1,0 +1,1 @@
+# RataType-Typing-Automator
